@@ -1,0 +1,161 @@
+/* Runner and pronouns panel. */
+.runner-container {
+	width: 396px;
+	height: 96px;
+	line-height: 96px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Runner name dynamic text. */
+.runner-name {
+	/* max-width: 365px; */
+	text-align: center;
+}
+
+/* Player 1 info position. */
+#runner-container1 {
+	left: 20px;
+	top: 510px;
+}
+
+/* Player 2 info position. */
+#runner-container2 {
+	left: 451px;
+	top: 510px;
+}
+
+/* Player 3 info position. */
+#runner-container3 {
+	left: 451px;
+	top: 667px;
+}
+
+/* Game name panel. */
+#game-name {
+	width: 824px;
+	height: 96px;
+	line-height: 96px;
+	left: 20px;
+	top: 824px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Category and estimate panel. */
+#info-container {
+	width: 824px;
+	height: 45px;
+	line-height: 45px;
+	left: 20px;
+	top: 920px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Timer panel. */
+#timer {
+	width: 416px;
+	height: 96px;
+	line-height: 96px;
+	left: 20px;
+	top: 667px;
+}
+
+/* Estimate panel. */
+#estimate-container {
+	position: absolute;
+	left: 20px;
+	top: 765px;
+}
+
+.pronouns {
+	position: absolute;
+	font-size: 18pt;
+	width: 406px;
+	height: 30px;
+	line-height: 30px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#pronouns1 {
+	left: 20px;
+	top: 609px;
+}
+
+#pronouns2 {
+	left: 451px;
+	top: 609px;
+}
+
+#pronouns3 {
+	left: 451px;
+	top: 766px;
+}
+
+#medals1 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	left: 20px;
+	top: 609px;
+}
+
+#medals2 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	left: 451px;
+	top: 609px;
+}
+
+#medals3 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	left: 451px;
+	top: 766px;
+}
+
+.finalTime {
+	position: absolute;
+	text-align: left;
+	width: 356px;
+	height: 32px;
+	line-height: 32px;
+}
+
+#finalTime1 {
+	left: 58px;
+	top: 609px;
+}
+
+#finalTime2 {
+	left: 489px;
+	top: 609px;
+}
+
+#finalTime3 {
+	left: 489px;
+	top: 766px;
+
+}
+
+/* Sponsor panel. */
+/* #sponsor-container {
+	width: 550px;
+	height: 504px;
+	line-height: 504px;
+	left: 0;
+	top: 489px;
+} */
+
+/* Sponsor image max size. */
+/* img#sponsor-img {
+	max-width: 75%;
+} */

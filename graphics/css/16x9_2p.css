@@ -1,0 +1,142 @@
+/* Runner and pronouns panel. */
+.runner-container {
+	width: 356px;
+	height: 60px;
+	line-height: 60px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Runner name dynamic text. */
+.runner-name {
+	/* max-width: 230px; */
+	text-align: center;
+}
+
+/* Player 1 info position. */
+#runner-container1 {
+	left: 577px;
+	top: 561px;
+}
+
+/* Player 2 info position. */
+#runner-container2 {
+	left: 967px;
+	top: 561px;
+}
+
+/* Game name panel. */
+#game-name {
+	width: 746px;
+    height: 98px;
+    line-height: 98px;
+    left: 577px;
+    top: 832px;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Category and estimate panel. */
+#info-container {
+	width: 746px;
+	height: 35px;
+	line-height: 35px;
+	left: 577px;
+	top: 929px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Timer panel. */
+#timer {
+	width: 376px;
+	height: 107px;
+	line-height: 107px;
+	left: 773px;
+	top: 666px;
+}
+
+/* Estimate panel. */
+#estimate-container {
+	position: absolute;
+	left: 776px;
+	top: 777px;
+}
+
+.pronouns {
+	position: absolute;
+	font-size: 16pt;
+	width: 366px;
+	height: 30px;
+	line-height: 27px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#pronouns1 {
+	left: 577px;
+	top: 621px;
+}
+
+#pronouns2 {
+	left: 967px;
+	top: 621px;
+}
+
+#medals1 {
+	position: absolute;
+	/* text-align: left; */
+	/* width: 356px; */
+	height: 30px;
+	/* line-height: 30px; */
+	margin-top: 0px;
+	left: 577px;
+	top: 617px;
+	
+	/* padding-left: 10px;
+	padding-right: 10px; */
+}
+
+#finalTime1 {
+	position: absolute;
+	text-align: left;
+	width: 356px;
+	height: 30px;
+	line-height: 30px;
+	left: 615px;
+	top: 621px;
+	
+	/* padding-left: 10px;
+	padding-right: 10px; */
+}
+
+#medals2 {
+	position: absolute;
+	/* text-align: left; */
+	/* width: 356px; */
+	height: 30px;
+	/* line-height: 30px; */
+	margin-top: 0px;
+	left: 967px;
+	top: 617px;
+	
+	/* padding-left: 10px;
+	padding-right: 10px; */
+}
+
+#finalTime2 {
+	position: absolute;
+	text-align: left;
+	width: 356px;
+	height: 30px;
+	line-height: 30px;
+	left: 1005px;
+	top: 621px;
+	
+	/* padding-left: 10px;
+	padding-right: 10px; */
+}

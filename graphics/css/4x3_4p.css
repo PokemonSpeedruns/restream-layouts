@@ -1,0 +1,141 @@
+/* Runner and pronouns panel. */
+.runner-container {
+	width: 439px;
+	height: 53px;
+	line-height: 53px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Runner name dynamic text. */
+.runner-name {
+	max-width: 350px;
+}
+
+/* Player 1 info position. */
+#runner-container1 {
+	left: 667px;
+	top: 30px;
+}
+
+/* Player 2 info position. */
+#runner-container2 {
+	left: 795px;
+	top: 164px;
+}
+
+/* Player 3 info position. */
+#runner-container3 {
+	left: 667px;
+	top: 767px;
+}
+
+/* Player 4 info position. */
+#runner-container4 {
+	left: 795px;
+	top: 901px;
+}
+
+/* Game name panel. */
+#game-name {
+	width: 567px;
+	height: 138px;
+	line-height: 138px;
+	left: 667px;
+	top: 499px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Category and estimate panel. */
+#info-container {
+	width: 567px;
+	height: 60px;
+	line-height: 60px;
+	left: 667px;
+	top: 637px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Timer panel. */
+#timer {
+	width: 587px;
+	height: 138px;
+	line-height: 138px;
+	left: 667px;
+	top: 287px;
+}
+
+/* Estimate panel. */
+#estimate-container {
+	position: absolute;
+	left: 677px;
+	top: 435px;
+}
+
+#medals1 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 7px;
+	left: 606px;
+	top: 5px;
+}
+
+#medals2 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	left: 1269px;
+	top: 5px;
+}
+
+#medals3 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 7px;
+	left: 606px;
+	top: 495px;
+}
+
+#medals4 {
+	position: absolute;
+	height: 30px;
+	margin-top: 0px;
+	left: 1269px;
+	top: 495px;
+}
+
+.finalTime {
+	position: absolute;
+	text-align: left;
+	height: 32px;
+	line-height: 32px;
+}
+
+#finalTime1 {
+	left: 475px;
+	top: 5px;
+}
+
+#finalTime2 {
+	left: 1314px;
+	top: 5px;
+}
+
+#finalTime3 {
+	left: 475px;
+	top: 495px;
+}
+
+#finalTime4 {
+	left: 1314px;
+	top: 495px;
+}
