@@ -48,6 +48,28 @@ body {
 	/* border: 2px solid transparent; */
 }
 
+/* Commentator name and pronouns panel. */
+.comms-container {
+	position: absolute;
+	display: flex;
+	
+	/* border: 2px solid transparent; */
+}
+
+.comms-name {
+	/* margin-right: 10px; */
+	max-width: 1300px;
+
+	/* border: 2px solid transparent; */
+}
+
+.comms-pronouns {
+	/* font-size: 20pt; */
+	vertical-align: middle;
+	text-align: right;
+	float: right;
+}
+
 .pronouns {
 	font-size: 20pt;
 	vertical-align: middle;

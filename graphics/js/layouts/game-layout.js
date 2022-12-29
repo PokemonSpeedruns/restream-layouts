@@ -24,6 +24,7 @@ $(() => {
 			gameSystem.html(runData.system);
 			gameYear.html(runData.release);
 			gameEstimate.html(runData.estimate);
+			let customData = runData.customData;
 
 			fadeHtml('#game-name', runData.game.toUpperCase(), true);
 			fadeHtml('#category', runData.category, true);
@@ -44,6 +45,17 @@ $(() => {
 					i += 1;
 				}
 			}
+
+			$('.comms-name').add('.comms-pronouns').text('');
+			let j = 0;
+			Object.values(customData).forEach(val => {
+				if (j < 4) {
+					fadeText('#commentatorName' + (j + 1), val, true);
+				} else {
+					fadeText('#commentatorPronouns' + ((j % 4) + 1), val, true);
+				}
+				j += 1;
+			});
 		}
 	}
 });

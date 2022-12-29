@@ -1,0 +1,41 @@
+body {
+	font-family: 'Futura Heavy';
+	color: #FFFF00;
+	width: 1920px;
+	height: 305px;
+	/* position: absolute; */
+}
+
+/* Runner name dynamic text. */
+.comms-container {
+    /* position: absolute;
+    display: flex; */
+	width: 1856px;
+	height: 261px;
+	line-height: 261px;
+	left: 22px;
+	top: 22px;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.comms-name {
+	/* margin-right: 10px; */
+	font-size: 100pt;
+	font-stretch: normal;
+	float: left;
+	vertical-align: middle;
+	width: 100%;
+
+	/* border: 2px solid transparent; */
+}
+
+.comms-pronouns {
+	font-size: 70pt;
+	vertical-align: middle;
+	text-align: right;
+	float: right;
+    font-stretch: semi-condensed;
+	width: 100%;
+}
