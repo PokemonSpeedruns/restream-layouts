@@ -47,14 +47,9 @@ $(() => {
 			}
 
 			$('.comms-name').add('.comms-pronouns').text('');
-			let j = 0;
-			Object.values(customData).forEach(val => {
-				if (j < 4) {
-					fadeText('#commentatorName' + (j + 1), val, true);
-				} else {
-					fadeText('#commentatorPronouns' + ((j % 4) + 1), val, true);
-				}
-				j += 1;
+			console.log(customData)
+			Object.entries(customData).map(([key, val] = entry) => {
+				fadeText('#' + key, val, true);
 			});
 		}
 	}
