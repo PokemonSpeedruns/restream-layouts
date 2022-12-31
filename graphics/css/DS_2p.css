@@ -11,6 +11,7 @@
 /* Runner name dynamic text. */
 .runner-name {
 	max-width: 430px;
+	font-size: 26pt;
 }
 
 /* Player 1 info position. */
