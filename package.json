@@ -72,11 +72,6 @@
         "height": 1080
       },
       {
-        "file": "Colo_TAS.html",
-        "width": 1920,
-        "height": 1080
-        },
-      {
       "file": "DS_1p.html",
       "width": 1920,
       "height": 1080
@@ -100,6 +95,11 @@
       "file": "GB_1p.html",
       "width": 1920,
       "height": 1080
+      },
+      {
+        "file": "GB_2p.html",
+        "width": 1920,
+        "height": 1080
       },
       {
       "file": "GB_2p_EFIR.html",

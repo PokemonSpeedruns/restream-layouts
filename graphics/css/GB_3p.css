@@ -1,17 +1,20 @@
 /* Runner and pronouns panel. */
 .runner-container {
-	width: 593px;
+	width: 603px;
     height: 78px;
-
     line-height: 78px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 /* Runner name dynamic text. */
 .runner-name {
-	max-width: 435px;
-	/* text-align: center; */
+	/* max-width: 435px; */
+	font-size: 24pt;
+}
+
+.pronouns {
+	font-size: 20px;
 }
 
 /* Player 1 info position. */
@@ -63,6 +66,8 @@
 	line-height: 96px;
 	left: 653px;
 	top: 159px;
+
+	font-size: 50pt;
 }
 
 /* Estimate panel. */
@@ -70,78 +75,4 @@
 	position: absolute;
 	left: 653px;
 	top: 260px;
-}
-
-/* .pronouns {
-	position: absolute;
-	font-size: 18pt;
-	width: 406px;
-	height: 30px;
-	line-height: 30px;
-
-	padding-left: 5px;
-	padding-right: 5px;
-} */
-
-/* #pronouns1 {
-	left: 20px;
-	top: 609px;
-} */
-
-/* #pronouns2 {
-	left: 451px;
-	top: 609px;
-}
-
-#pronouns3 {
-	left: 451px;
-	top: 766px;
-} */
-
-/* #medals1 {
-	position: absolute;
-	height: 30px;
-	margin-top: 0px;
-	left: 20px;
-	top: 609px;
-} */
-
-/* #medals2 {
-	position: absolute;
-	height: 30px;
-	margin-top: 0px;
-	left: 451px;
-	top: 609px;
-}
-
-#medals3 {
-	position: absolute;
-	height: 30px;
-	margin-top: 0px;
-	left: 451px;
-	top: 766px;
-} */
-
-/* .finalTime {
-	position: absolute;
-	text-align: left;
-	width: 356px;
-	height: 32px;
-	line-height: 32px;
-} */
-
-/* #finalTime1 {
-	left: 58px;
-	top: 609px;
-} */
-
-#finalTime2 {
-	left: 489px;
-	top: 609px;
-}
-
-#finalTime3 {
-	left: 489px;
-	top: 766px;
-
 }

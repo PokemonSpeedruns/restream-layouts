@@ -1,18 +1,18 @@
 /* Runner and pronouns panel. */
 #runner-container1 {
-	width: 402px;
+	width: 412px;
 	height: 70px;
 	line-height: 70px;
 	left: 15px;
 	top: 357px;
 	
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 /* Runner name dynamic text. */
 .runner-name {
-	max-width: 330px;
+	font-size: 20pt;
 }
 
 /* Game name panel. */
@@ -49,6 +49,8 @@
 
 	padding-left: 10px;
 	padding-right: 10px;
+
+	font-size: 50pt;
 }
 
 /* Estimate panel. */
