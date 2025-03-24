@@ -12,35 +12,35 @@
 
 /* Comms panel. */
 .comms-container {
-	width: 400px;
+	width: 440px;
 	height: 60px;
 	line-height: 60px;
 	
 	padding-left: 5px;
 	padding-right: 5px;
 
-	top: 985px;
-	font-size: 32px;
+	top: 984px;
+	/* font-size: 32px; */
 }
 
 #comms-container1 {
-	left: 570px;
+	left: 563px;
 
 }
 
 #comms-container2 {
-	left: 1010px;
+	left: 1004px;
 
 }
 
 #comms-container3 {
-	left: 1450px;
+	left: 1445px;
 
 }
 
 /* Comms name dynamic text. */
 .comms-name {
-	max-width: 295px;
+	max-width: 310px;
 }
 
 /* Game name panel. */

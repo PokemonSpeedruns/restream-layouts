@@ -57,21 +57,25 @@ body {
 }
 
 .comms-name {
-	/* margin-right: 10px; */
-	max-width: 1300px;
-
-	/* border: 2px solid transparent; */
+	margin-right: 4px;
+	font-size: 26pt;
+	font-stretch: semi-condensed;
+	float: left;
+	vertical-align: middle;
+	width: 100%;
+	/* flex: 0 1 100%; */
+	/* align-items: center; */
 }
 
 .comms-pronouns {
-	/* font-size: 20pt; */
+	font-size: 16pt;
 	vertical-align: middle;
 	text-align: right;
 	float: right;
 }
 
 .pronouns {
-	font-size: 18pt;
+	/* font-size: 18pt; */
 	vertical-align: middle;
 	text-align: right;
 	float: right;
