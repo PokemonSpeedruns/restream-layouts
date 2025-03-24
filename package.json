@@ -1,5 +1,5 @@
 {
-  "name": "gen-psr-layouts",
+  "name": "restream-layouts",
   "version": "0.0.0",
   "description": "Multi-purpose layouts for PSR events",
   "homepage": "",
@@ -19,133 +19,18 @@
     "nodecg-bundle"
   ],
   "nodecg": {
-    "compatibleRange": "^1.1.1",
+    "compatibleRange": "^2.1.1",
     "graphics": [
-      {
-      "file": "3DS_1p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "3DS_2p.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-      "file": "4x3_1p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "4x3_2p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "4x3_3p.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-      "file": "4x3_4p.html",
-      "width": 1920,
-      "height": 1080
-      },
       {
       "file": "16x9_1p.html",
       "width": 1920,
       "height": 1080
       },
       {
-      "file": "16x9_2p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "16x9_3p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "16x9_4p.html",
+        "file": "restream.html",
         "width": 1920,
         "height": 1080
-      },
-      {
-      "file": "DS_1p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "DS_2p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "DS_3p.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-      "file": "DS_4p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "GB_1p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "GB_2p.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-      "file": "GB_2p_EFIR.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "GB_3p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "GBA_1p.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-      "file": "GBA_1p_IV_Calc.html",
-      "width": 1920,
-      "height": 1080
-      },
-      {
-        "file": "GBA_2p.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-        "file": "Comms_1.html",
-        "width": 1920,
-        "height": 305
-      },
-      {
-        "file": "Comms_2.html",
-        "width": 1920,
-        "height": 305
-      },
-      {
-        "file": "Comms_3.html",
-        "width": 1920,
-        "height": 305
-      },
-      {
-        "file": "Comms_4.html",
-        "width": 1920,
-        "height": 305
-      },
+        },
       {
       "file": "Intermission.html",
       "width": 1920,

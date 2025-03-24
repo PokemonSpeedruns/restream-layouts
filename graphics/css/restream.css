@@ -1,0 +1,56 @@
+/* Runner and pronouns panel. */
+#runner-container1 {
+	width: 420px;
+	height: 60px;
+	line-height: 60px;
+	left: 15px;
+	top: 392px;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+/* Comms panel. */
+.comms-container {
+	width: 400px;
+	height: 60px;
+	line-height: 60px;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+
+	top: 985px;
+	font-size: 32px;
+}
+
+#comms-container1 {
+	left: 570px;
+
+}
+
+#comms-container2 {
+	left: 1010px;
+
+}
+
+#comms-container3 {
+	left: 1450px;
+
+}
+
+/* Comms name dynamic text. */
+.comms-name {
+	max-width: 295px;
+}
+
+/* Game name panel. */
+#game-name {
+	max-width: 410px;
+	height: 60px;
+	line-height: 80px;
+	left: 35px;
+	top: 977px;
+		
+	padding-left: 10px;
+	padding-right: 10px;
+}
