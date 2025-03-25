@@ -16,7 +16,7 @@
     line-height: 72px;
     position: absolute;
 	text-align: center;
-    top: 5px;
+    top: 30px;
     left: 439px;
 
     padding-left: 10px;
@@ -73,4 +73,37 @@
 .estimate-label img {
 	height: 27pt;
 	width: 100%;
+}
+
+/* Comms panel. */
+.comms-container {
+	width: 400px;
+	height: 60px;
+	line-height: 55px;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+
+	left: 20px;
+	/* font-size: 32px; */
+}
+
+#comms-container1 {
+	top: 278px;
+
+}
+
+#comms-container2 {
+	top: 604px;
+
+}
+
+#comms-container3 {
+	top: 928px;
+
+}
+
+/* Comms name dynamic text. */
+.comms-name {
+	max-width: 180px;
 }
