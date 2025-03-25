@@ -32,8 +32,8 @@
         "key": "runnerGame"
       },
       {
-        "name": "Category",
-        "key": "category"
+        "name": "Tracker Key",
+        "key": "trackerKey"
       }
     ]
   }

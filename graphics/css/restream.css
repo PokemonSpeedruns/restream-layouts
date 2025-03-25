@@ -1,5 +1,5 @@
 /* Runner and pronouns panel. */
-#runner-container1 {
+/* #runner-container1 {
 	width: 420px;
 	height: 60px;
 	line-height: 60px;
@@ -8,11 +8,11 @@
 	
 	padding-left: 5px;
 	padding-right: 5px;
-}
+} */
 
 /* Comms panel. */
 .comms-container {
-	width: 440px;
+	width: 405px;
 	height: 60px;
 	line-height: 60px;
 	
@@ -45,11 +45,11 @@
 
 /* Game name panel. */
 #game-name {
-	max-width: 410px;
+	max-width: 420px;
 	height: 60px;
 	line-height: 80px;
 	left: 35px;
-	top: 977px;
+	top: 976px;
 		
 	padding-left: 10px;
 	padding-right: 10px;
