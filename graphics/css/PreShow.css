@@ -16,7 +16,7 @@
     line-height: 72px;
     position: absolute;
 	text-align: center;
-    top: 30px;
+    top: 20px;
     left: 439px;
 
     padding-left: 10px;
@@ -77,7 +77,7 @@
 
 /* Comms panel. */
 .comms-container {
-	width: 400px;
+	width: 395px;
 	height: 60px;
 	line-height: 55px;
 	

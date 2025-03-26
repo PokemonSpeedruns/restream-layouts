@@ -24,7 +24,7 @@
 }
 
 #comms-container1 {
-	left: 563px;
+	left: 562px;
 
 }
 
@@ -45,7 +45,7 @@
 
 /* Game name panel. */
 #game-name {
-	max-width: 420px;
+	max-width: 430px;
 	height: 60px;
 	line-height: 80px;
 	left: 35px;
