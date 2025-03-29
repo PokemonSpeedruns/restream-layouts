@@ -12,7 +12,7 @@
 
 /* Comms panel. */
 .comms-container {
-	width: 405px;
+	width: 410px;
 	height: 60px;
 	line-height: 60px;
 	
@@ -25,23 +25,30 @@
 }
 
 #comms-container1 {
-	left: 562px;
+	left: 559px;
 
 }
 
 #comms-container2 {
-	left: 1004px;
+	left: 1002px;
 
 }
 
 #comms-container3 {
-	left: 1445px;
+	left: 1443px;
 
 }
 
 /* Comms name dynamic text. */
 .comms-name {
-	max-width: 310px;
+	max-width: 280px;
+	flex: 0 1 100%;
+	/* font-size: 30px; */
+}
+
+/* Comms name dynamic text. */
+.comms-pronouns {
+	flex: 0 1 100px;
 }
 
 /* Game name panel. */
@@ -55,3 +62,6 @@
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+
+
